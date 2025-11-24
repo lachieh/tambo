@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.1](https://github.com/tambo-ai/tambo/compare/create-tambo-app-v0.2.0...create-tambo-app-v0.2.1) (2025-11-24)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump rimraf from 6.1.0 to 6.1.2 ([#1371](https://github.com/tambo-ai/tambo/issues/1371)) ([480f11d](https://github.com/tambo-ai/tambo/commit/480f11d31978b2b95e99316f9b738cbbc1c6d5cf))
+* **deps-dev:** bump the eslint group with 2 updates ([#1361](https://github.com/tambo-ai/tambo/issues/1361)) ([81825c5](https://github.com/tambo-ai/tambo/commit/81825c5cf1a8fa7c284f89c5bc7d9405aca37401))
+
 ## [0.2.0](https://github.com/tambo-ai/tambo/compare/create-tambo-app-v0.1.18...create-tambo-app-v0.2.0) (2025-11-20)
 
 
