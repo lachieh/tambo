@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.32.0](https://github.com/tambo-ai/tambo/compare/showcase-v0.31.0...showcase-v0.32.0) (2025-11-24)
+
+
+### Features
+
+* automate component sync from CLI registry to showcase ([#1292](https://github.com/tambo-ai/tambo/issues/1292)) ([ae309fc](https://github.com/tambo-ai/tambo/commit/ae309fcb832ecdbc376247435eb2176c82f3093b))
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump rimraf from 6.1.0 to 6.1.2 ([#1371](https://github.com/tambo-ai/tambo/issues/1371)) ([480f11d](https://github.com/tambo-ai/tambo/commit/480f11d31978b2b95e99316f9b738cbbc1c6d5cf))
+
 ## [0.31.0](https://github.com/tambo-ai/tambo/compare/showcase-v0.30.0...showcase-v0.31.0) (2025-11-20)
 
 
