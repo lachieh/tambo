@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.66.0](https://github.com/tambo-ai/tambo/compare/react-v0.65.2...react-v0.66.0) (2025-11-24)
+
+
+### Features
+
+* automate component sync from CLI registry to showcase ([#1292](https://github.com/tambo-ai/tambo/issues/1292)) ([ae309fc](https://github.com/tambo-ai/tambo/commit/ae309fcb832ecdbc376247435eb2176c82f3093b))
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump the eslint group with 2 updates ([#1361](https://github.com/tambo-ai/tambo/issues/1361)) ([81825c5](https://github.com/tambo-ai/tambo/commit/81825c5cf1a8fa7c284f89c5bc7d9405aca37401))
+
 ## [0.65.2](https://github.com/tambo-ai/tambo/compare/react-v0.65.1...react-v0.65.2) (2025-11-21)
 
 
