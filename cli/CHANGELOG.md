@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.42.1](https://github.com/tambo-ai/tambo/compare/tambo-v0.42.0...tambo-v0.42.1) (2025-11-24)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump open from 10.2.0 to 11.0.0 ([#1372](https://github.com/tambo-ai/tambo/issues/1372)) ([a232a41](https://github.com/tambo-ai/tambo/commit/a232a414b7a21b8cef44da29b32fd361cf790046))
+
 ## [0.42.0](https://github.com/tambo-ai/tambo/compare/tambo-v0.41.0...tambo-v0.42.0) (2025-11-22)
 
 
