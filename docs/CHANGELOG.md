@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.19.2](https://github.com/tambo-ai/tambo/compare/docs-v1.19.1...docs-v1.19.2) (2025-11-24)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump rimraf from 6.1.0 to 6.1.2 ([#1371](https://github.com/tambo-ai/tambo/issues/1371)) ([480f11d](https://github.com/tambo-ai/tambo/commit/480f11d31978b2b95e99316f9b738cbbc1c6d5cf))
+
 ## [1.19.1](https://github.com/tambo-ai/tambo/compare/docs-v1.19.0...docs-v1.19.1) (2025-11-22)
 
 
